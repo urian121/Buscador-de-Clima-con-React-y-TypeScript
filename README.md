@@ -1,8 +1,8 @@
-# Cotizar Criptomonedas en JavaScript
+# Buscador de Clima con React / TypeScript - CSS Modules, API's y Custom Hooks
 
-##### Este cotizador de criptomonedas, desarrollado con HTML, CSS y JavaScript, utiliza el método fetch para obtener datos de una API. Su interfaz intuitiva permite a los usuarios cotizar diversas criptomonedas de manera rápida y sencilla. Para mejorar, se podrían implementar características como gráficos de tendencias, opciones de conversión de moneda y una interfaz más dinámica. Además, se podría optimizar el código para mejorar el rendimiento y la escalabilidad, y documentar claramente su funcionamiento para facilitar su comprensión y uso.
+##### El Buscador de Clima es una aplicación desarrollada utilizando React y TypeScript, con estilos gestionados mediante CSS Modules. Esta herramienta utiliza API's para obtener datos meteorológicos actualizados y presenta una interfaz intuitiva para que los usuarios puedan buscar el clima de cualquier ubicación. Además, se implementan Custom Hooks para optimizar la gestión de estados y la reutilización de lógica en la aplicación.
 
-#### Proyecto que se basa en el curso 'JavaScript Moderno Guía Definitiva Construye +20 Proyectos', impartido por el profesor Juan De la Torre en Udemy, con adaptaciones adicionales realizadas por mí.
+#### Proyecto que se basa en el curso 'React y TypeScript - La Guía Completa Creando +10 Proyectos', impartido por el profesor Juan Pablo De la torre Valdez en Udemy.
 
 ### Resultado final
 
