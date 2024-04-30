@@ -10,7 +10,9 @@ function App() {
 
   return (
     <>
-      <h1 className={styles.title}>Buscador de Clima</h1>
+      <h1 className={styles.title}>
+        Buscador de Clima con React / TypeScript - CSS Modules, API's y Custom Hooks
+      </h1>
       <div className={styles.container}>
         <Form fetchWeather={fetchWeather} />
         {loading && <Spinner />}

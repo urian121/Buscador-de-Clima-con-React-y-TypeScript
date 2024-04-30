@@ -1,27 +1,18 @@
-# React + TypeScript + Vite
+# Cotizar Criptomonedas en JavaScript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##### Este cotizador de criptomonedas, desarrollado con HTML, CSS y JavaScript, utiliza el método fetch para obtener datos de una API. Su interfaz intuitiva permite a los usuarios cotizar diversas criptomonedas de manera rápida y sencilla. Para mejorar, se podrían implementar características como gráficos de tendencias, opciones de conversión de moneda y una interfaz más dinámica. Además, se podría optimizar el código para mejorar el rendimiento y la escalabilidad, y documentar claramente su funcionamiento para facilitar su comprensión y uso.
 
-Currently, two official plugins are available:
+#### Proyecto que se basa en el curso 'JavaScript Moderno Guía Definitiva Construye +20 Proyectos', impartido por el profesor Juan De la Torre en Udemy, con adaptaciones adicionales realizadas por mí.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Resultado final
 
-## Expanding the ESLint configuration
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/Buscador-de-Clima-con-React.png)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+### Expresiones de Gratitud 🎁
 
-- Configure the top-level `parserOptions` property like this:
+    Comenta a otros sobre este proyecto 📢
+    Invita una cerveza 🍺 o un café ☕
+    Paypal iamdeveloper86@gmail.com
+    Da las gracias públicamente 🤓.
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## No olvides SUSCRIBIRTE 👍
