@@ -6,7 +6,7 @@
 
 ### Resultado final
 
-![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/Buscador-de-Clima-con-React.png)
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/Buscador-de-Clima-con-React-typescript.png)
 
 ### Expresiones de Gratitud 🎁
 
